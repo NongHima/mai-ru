@@ -6,7 +6,7 @@
     },
   "config": {
     "options": {
-      "watch-url": ["https://youtu.be/MFtfIpt7DfY?si=0fHF56Oqv26gJ3T1"],
+      "watch-url": ["https://youtu.be/kxs9Su_mbpU?si=DNcg6OC6XH0k97Fs"],
       "timestamp": "{end:1719680400}"
         },
         "text-1": [
@@ -60,77 +60,13 @@
         "button-1": [
             {
                 "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
+                "url": "https://discord.com/channels/@me"
             },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            },
-            {
-                "name": "❄ Facebook ❄",
-                "url": "https://www.facebook.com/snxnr/"
-            }
         ],
         "button-2": [
             {
                 "name": "❄ Instagram ❄",
-                "url": "https://www.instagram.com/snalwaysmissyou/"
+                "url": "https://discord.com/channels/@me"
             }
         ]
     }
